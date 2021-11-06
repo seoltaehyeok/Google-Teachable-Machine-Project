@@ -29,7 +29,7 @@ https://awesome-hodgkin-47e8d6.netlify.app/
 </details>
 
 <details>
-<summary>세상에서 가장 쉬운 인공지능 만들기 1, 2탄</summary>
+<summary>세상에서 가장 쉬운 인공지능 만들기 1, 2탄(참고자료)</summary>
 <div markdown="1"> 
 https://youtu.be/USQGTW34lO8
   
